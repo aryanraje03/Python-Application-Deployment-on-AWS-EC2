@@ -1,6 +1,6 @@
 # Python Flask Application Deployment on AWS EC2
 
-Using Python 3, pip, Virtual Environment, and Gunicorn
+Using Python, pip, Virtual Environment, and Gunicorn
 
 ---
 
